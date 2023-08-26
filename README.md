@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
-![Mobile](./screenshot.jpg)
+![Desktop](./screenshots/dektop.png)
+![Mobile](./screenshots/mobile.png)
 
 
 
