@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL ](https://github.com/unaygney/password-generator-app)
+- Live Site URL: [Live site URL || Netlify](https://64ea3d80c2bf4d5f01bc5d2a--vocal-dusk-d58598.netlify.app/)
 
 ## My process
 
